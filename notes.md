@@ -30,6 +30,16 @@ https://validator.w3.org/
 
 https://codepen.io/kassandrasanch/pen/WNxJZyz
 
----
+--- <!-- a -->
 
 https://codepen.io/jaysalvat/pen/kazzOj
+
+<!--  **Basic writing and formatting syntax**
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+-->
+
+## fonts - google
+
+> - https://fonts.google.com/
+
+p.s. Visos tekstines stiliaus savybes gali buti paveldetos is teviniu elementu.
